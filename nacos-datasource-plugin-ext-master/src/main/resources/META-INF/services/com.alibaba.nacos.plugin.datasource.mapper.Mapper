@@ -1,0 +1,9 @@
+com.alibaba.nacos.plugin.datasource.impl.pgsql.ConfigInfoGrayMapperByPgSql
+com.alibaba.nacos.plugin.datasource.impl.pgsql.ConfigInfoBetaMapperByPgSql
+com.alibaba.nacos.plugin.datasource.impl.pgsql.ConfigInfoMapperByPgSql
+com.alibaba.nacos.plugin.datasource.impl.pgsql.ConfigInfoTagMapperByPgSql
+com.alibaba.nacos.plugin.datasource.impl.pgsql.ConfigTagsRelationMapperByPgSql
+com.alibaba.nacos.plugin.datasource.impl.pgsql.HistoryConfigInfoMapperByPgSql
+com.alibaba.nacos.plugin.datasource.impl.pgsql.TenantInfoMapperByPgSql
+com.alibaba.nacos.plugin.datasource.impl.pgsql.TenantCapacityMapperByPgSql
+com.alibaba.nacos.plugin.datasource.impl.pgsql.GroupCapacityMapperByPgSql
